@@ -1,0 +1,6 @@
+* choice the option what user wanna do.
+* take action by the user's selection
+* if "add new member" then create a new file for that new member
+* if "read one member's tasks" show show that specific user's tasks
+* if "show all tasks" then show all the tasks form all users;
+* if "close application" then exit from application; 
